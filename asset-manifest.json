@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TranNgocTien/steps.git/static/css/main.29b0e223.css",
+    "main.js": "/TranNgocTien/steps.git/static/js/main.a07a4687.js",
+    "index.html": "/TranNgocTien/steps.git/index.html",
+    "main.29b0e223.css.map": "/TranNgocTien/steps.git/static/css/main.29b0e223.css.map",
+    "main.a07a4687.js.map": "/TranNgocTien/steps.git/static/js/main.a07a4687.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29b0e223.css",
+    "static/js/main.a07a4687.js"
+  ]
+}
